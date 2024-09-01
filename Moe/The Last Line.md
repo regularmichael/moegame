@@ -6,7 +6,7 @@ The first game ([[Ridgewreath Farm]]) will begin with [[Cassie]] coming to meet 
 
 The second game ([[The Town]]) will feature The Last Line as part of Moe's initial dream sequence, and it will be part of her dreamscapes throughout the game. She will also leave a shift at The Last Line and give Sal a customary hug goodbye.
 
-The third game (The Hunt for Priest) will feature The Last Line quite a few times, including transitionary spots where Moe and Sal will talk. An actual gameplay segment in The Last Line. Moe will need to defend the restaurant from an ambush by [[Priest(Gameplay)|Priest]]. During this segment, Sal will be killed just outside of the last line.
+The third game (The Hunt for Priest) will feature The Last Line quite a few times, including transitionary spots where Moe and Sal will talk. An actual gameplay segment in The Last Line. Moe will need to defend the restaurant from an ambush by [[Priest(Gameplay)|Priest]]. During this segment, Sal will be killed just outside of The Last Line.
 
 In the epilogue of the series, Moe takes ownership of The Last Line and renames it "Sal's."
 
