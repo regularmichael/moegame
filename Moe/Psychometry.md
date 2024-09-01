@@ -1,3 +1,8 @@
+*See Also*
+Psychometry (Gameplay)
+Psychometry (Moe)
+Mandragora
+
 The ability to witness events ("read") in the history of an object, spell, or living being through direct contact (i.e. with an ungloved hand). The psychometric reader cannot influence the history - they aren't time travelers, so they can't touch anything or bring it back with them. However, they can watch events unfold that they did not see themselves and gain a plethora of knowledge about the people, places, and things related to those events.
 
 *Psychometric Readings*
@@ -14,6 +19,7 @@ The psychometric focus is the subject of the reading. This can be anything that 
 
 ###### Objects 
 Objects are the simplest focus for reading. A psychometric reading of an object or environment can tell the reader which events have happened near the focus. For example, a reader can touch a wrench, and in doing so may be able to see who held the wrench, what they did with it, and where they went while holding it. The vividness of an object or environment's reading depends on several factors:
+
 1. The proximity of the focus to the event. A focus that is physically closer to an event with have a more vivid reading than a focus that is distant from the event. For example, if the reader takes the wrench and follows the reading to the machine it was used one, the reading will be as clear to a practiced reader as though they were witnessing the event on film. Taking the wrench further away from the event will muddy the reading, until eventually it reaches a point where it no vivid reading can happen at all.
    
    A skilled psychometric reader can use this clarity (or lack thereof) to bring themselves closer to a focus. This is called *threading*.

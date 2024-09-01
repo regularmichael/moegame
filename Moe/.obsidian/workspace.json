@@ -6,19 +6,8 @@
       {
         "id": "8f64ea396f8c9eab",
         "type": "tabs",
+        "dimension": 51.812366737739865,
         "children": [
-          {
-            "id": "ddf47d092dab633f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "37f34a666beac37d",
             "type": "leaf",
@@ -42,13 +31,50 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eb8f75a2485e3603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Animal Ken.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e9dbabb5c45ea83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Barry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "946b94c782b7b172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "6e6307d0f95930d2",
         "type": "tabs",
+        "dimension": 48.18763326226013,
         "children": [
           {
             "id": "97b9dc2b5de7a9c0",
@@ -56,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moe (Maurelya).md",
+                "file": "Moe.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychometry.md",
+                "file": "Sal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychometry.md",
+                "file": "Sal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychometry.md"
+                "file": "Sal.md"
               }
             }
           }
@@ -190,11 +216,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1932d088e2310a6a",
+  "active": "946b94c782b7b172",
   "lastOpenFiles": [
+    "Pasted image 20240901004153.png",
+    "Pasted image 20240901004119.png",
+    "Pasted image 20240901004113.png",
+    "The Last Line.md",
+    "Sal.md",
+    "Pasted image 20240901003730.png",
+    "Pasted image 20240901003703.png",
+    "Pasted image 20240901003635.png",
+    "Barry.md",
+    "Moe.md",
+    "Pasted image 20240901001056.png",
+    "Pasted image 20240901000023.png",
+    "3e9c7158-278c-4040-9b39-81429aabaec8.webp",
+    "Animal Ken.md",
     "Psychometry.md",
     "Intuition.md",
-    "Moe (Maurelya).md",
-    "Welcome.md"
+    "Welcome.md",
+    "Priest(Nara).md"
   ]
 }
