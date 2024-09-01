@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "8bcf496ce34466f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f64ea396f8c9eab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddf47d092dab633f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37f34a666beac37d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intuition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1932d088e2310a6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychometry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "6e6307d0f95930d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97b9dc2b5de7a9c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Moe (Maurelya).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b574a9935cd0e13e",
+    "type": "split",
+    "children": [
+      {
+        "id": "67bf62d2d65e67d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09d6ed4495d0da02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed603a60f8c877d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdb80c359b979494",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "342e6acc57541bdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9375b1d3159708fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b91d0cb7ea1c02a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Psychometry.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "890ecfb67010ecba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Psychometry.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73cc04875a4be40e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4315efc1d866d654",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Psychometry.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1932d088e2310a6a",
+  "lastOpenFiles": [
+    "Psychometry.md",
+    "Intuition.md",
+    "Moe (Maurelya).md",
+    "Welcome.md"
+  ]
+}
