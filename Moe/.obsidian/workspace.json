@@ -6,7 +6,7 @@
       {
         "id": "8f64ea396f8c9eab",
         "type": "tabs",
-        "dimension": 51.796407185628745,
+        "dimension": 51.79640718562874,
         "children": [
           {
             "id": "37f34a666beac37d",
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moe.md",
+                "file": "The Last Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moe.md",
+                "file": "The Last Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Moe.md"
+                "file": "The Last Line.md"
               }
             }
           }
@@ -216,14 +216,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97b9dc2b5de7a9c0",
+  "active": "1932d088e2310a6a",
   "lastOpenFiles": [
+    "Moe.md",
+    "Pasted image 20240902105422.png",
     "The Last Line.md",
     "There is always another way.md",
     "Intuition.md",
     "Creepy Crawlies.md",
     "the plan to raise.md",
-    "Moe.md",
     "Ringold (Gameplay).md",
     "Barry.md",
     "Psychometry.md",
