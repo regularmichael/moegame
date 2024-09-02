@@ -26,7 +26,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Last Line.md",
+                "file": "The Hunt (Project).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ac1daef8e56248b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Town (Project).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7010f5b40d4a63cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Farm (Project).md",
                 "mode": "source",
                 "source": false
               }
@@ -68,8 +92,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6e6307d0f95930d2",
@@ -155,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Last Line.md",
+                "file": "Intuition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Last Line.md",
+                "file": "Intuition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Last Line.md"
+                "file": "Intuition.md"
               }
             }
           }
@@ -216,11 +239,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1932d088e2310a6a",
+  "active": "37f34a666beac37d",
   "lastOpenFiles": [
+    "The Hunt (Project).md",
+    "The Last Line.md",
+    "The Town (Project).md",
+    "The Farm (Project).md",
     "Moe.md",
     "Pasted image 20240902105422.png",
-    "The Last Line.md",
     "There is always another way.md",
     "Intuition.md",
     "Creepy Crawlies.md",

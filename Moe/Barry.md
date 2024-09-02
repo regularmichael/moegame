@@ -7,7 +7,7 @@ Barry's larger connections to the world are unknown to Moe, and she prefers to k
 *Gameplay*
 Players will rarely interact with Barry directly. There will be options for Moe to contact Barry about the state of the case and get some information about the mundane world, but these will be under very specific conditions (i.e. quest circumstances).
 
-Barry will most often be an instigating factor for the main cases of the game. He is the one who directs Cassie to Moe, which in turn leads to [[Ridgewreath Farm]]. He will also play a major role in finding [[The Town]] and in the pursuit of [[Priest(Narrative)|Priest]].
+Barry will most often be an instigating factor for the main cases of the game. He is the one who directs Cassie to Moe, which in turn leads to [[The Farm (Project)]]. He will also play a major role in finding [[The Town (Project)]] and in the pursuit of [[Priest(Narrative)|Priest]].
 
 During the starting menu, loading screens, etc., there will be a chance to see Moe on a phone call with Barry, where she will be wrapping up a conversation with him before putting her phone away so the player can take control of her. Idle dialogue can also include Moe saying things like, "Barry, what have you gotten me into this time?"
 

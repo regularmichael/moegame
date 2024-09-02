@@ -4,7 +4,7 @@ Sal is the owner of [[The Last Line]], He is [[Moe]]'s boss, and truly, one of t
  Sal is a warm and selfless man, and he takes great pride in the business he runs. He is very caring toward and protective of Moe, even referring to her as his "daughter" at one point. He doesn't fully understand her burden or mission ("I don't get none of this magic stuff"), but he is always willing to support her by letting her leave on sudden notice and return as she pleases. He always seems to have enough time to make care packages for her just before she leaves for a case.
 
 *Gameplay*
-Sal will play small supporting roles in the first two games ([[Ridgewreath Farm]] and [[The Town]]), usually as part of the segments that take place at The Last Line, or as part of Moe's memory made real in each game through psychometry or dreamscapes.
+Sal will play small supporting roles in the first two games ([[The Farm (Project)]] and [[The Town (Project)]]), usually as part of the segments that take place at The Last Line, or as part of Moe's memory made real in each game through psychometry or dreamscapes.
 
 In the third game, Sal will appear frequently, as The Last Line will be a primary location in the game. He will be around to provide Moe more comfort and care packages. At some point, [[Priest(Narrative)|Priest]] will attack The Last Line and, despite Moe's extensive preparation, kill Sal in front of her. Sal's last lines to Moe will be, "This isn't your fault. I love you." 
 
