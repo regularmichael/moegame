@@ -91,8 +91,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "789c9c6c06f93deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "414f08687e684014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Priest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       },
       {
         "id": "6e6307d0f95930d2",
@@ -178,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ridgewreath Farm.md",
+                "file": "Priest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ridgewreath Farm.md",
+                "file": "Priest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ridgewreath Farm.md"
+                "file": "Priest.md"
               }
             }
           }
@@ -239,16 +264,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37f34a666beac37d",
+  "active": "414f08687e684014",
   "lastOpenFiles": [
-    "The Hunt (Project).md",
+    "Pasted image 20240911071448.png",
+    "Sal.md",
+    "Priest.md",
+    "Pasted image 20240910222807.png",
+    "Anna.md",
+    "The Farm (Project).md",
+    "The Town.md",
+    "Ending 1 (The Farm).md",
+    "True Ending (The Farm).md",
+    "Pasted image 20240906003728.png",
     "Ridgewreath Farm.md",
+    "Moe.md",
+    "Pasted image 20240903105011.png",
+    "The Hunt (Project).md",
     "Pasted image 20240902163037.png",
     "Intuition.md",
     "The Last Line.md",
     "The Town (Project).md",
-    "The Farm (Project).md",
-    "Moe.md",
     "Pasted image 20240902105422.png",
     "There is always another way.md",
     "Creepy Crawlies.md",
@@ -256,16 +291,12 @@
     "Ringold (Gameplay).md",
     "Barry.md",
     "Psychometry.md",
-    "Sal.md",
     "Animal Ken.md",
     "Pasted image 20240901004153.png",
     "Pasted image 20240901004119.png",
     "Pasted image 20240901004113.png",
     "Pasted image 20240901003730.png",
     "Pasted image 20240901003703.png",
-    "Pasted image 20240901003635.png",
-    "Pasted image 20240901001056.png",
-    "Pasted image 20240901000023.png",
     "Welcome.md",
     "Priest(Nara).md"
   ]

@@ -1,5 +1,6 @@
 Psychometric occult detective
 ![[Pasted image 20240901001056.png]]![[Pasted image 20240902105422.png]]
+![[Pasted image 20240903105011.png]]
 Known powers, abilities, and skills:
 - Psychometry ([[Psychometry|Narrative]] | [[Psychometry|Gameplay]])
 	- Mandragora ([[Mandragora (Narrative)|Narrative]] | [[Mandragora (Gameplay)|Gameplay]])
