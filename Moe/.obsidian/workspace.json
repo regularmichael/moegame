@@ -116,8 +116,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       },
       {
         "id": "6e6307d0f95930d2",
@@ -130,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moe.md",
+                "file": "The Haze.md",
                 "mode": "source",
                 "source": false
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Priest.md",
+                "file": "The Haze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Priest.md",
+                "file": "The Haze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Priest.md"
+                "file": "The Haze.md"
               }
             }
           }
@@ -264,11 +263,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "414f08687e684014",
+  "active": "97b9dc2b5de7a9c0",
   "lastOpenFiles": [
+    "Psychometry.md",
+    "The Haze.md",
+    "Moe.md",
+    "Ridgewreath Farm.md",
+    "Priest.md",
     "Pasted image 20240911071448.png",
     "Sal.md",
-    "Priest.md",
     "Pasted image 20240910222807.png",
     "Anna.md",
     "The Farm (Project).md",
@@ -276,8 +279,6 @@
     "Ending 1 (The Farm).md",
     "True Ending (The Farm).md",
     "Pasted image 20240906003728.png",
-    "Ridgewreath Farm.md",
-    "Moe.md",
     "Pasted image 20240903105011.png",
     "The Hunt (Project).md",
     "Pasted image 20240902163037.png",
@@ -290,13 +291,11 @@
     "the plan to raise.md",
     "Ringold (Gameplay).md",
     "Barry.md",
-    "Psychometry.md",
     "Animal Ken.md",
     "Pasted image 20240901004153.png",
     "Pasted image 20240901004119.png",
     "Pasted image 20240901004113.png",
     "Pasted image 20240901003730.png",
-    "Pasted image 20240901003703.png",
     "Welcome.md",
     "Priest(Nara).md"
   ]
