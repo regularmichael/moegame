@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ridgewreath Farm.md",
+                "file": "Midnight.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Farm (Project).md",
+                "file": "Ridgewreath Farm.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,16 +108,11 @@
             "id": "414f08687e684014",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Priest.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       },
       {
         "id": "6e6307d0f95930d2",
@@ -203,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Priest.md",
+                "file": "Midnight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Priest.md",
+                "file": "Midnight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Priest.md"
+                "file": "Midnight.md"
               }
             }
           }
@@ -264,26 +259,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "414f08687e684014",
+  "active": "37f34a666beac37d",
   "lastOpenFiles": [
+    "Ridgewreath Farm.md",
+    "The Farm (Project).md",
+    "The Town (Project).md",
+    "Midnight.md",
+    "Pasted image 20240917225711.png",
+    "Pasted image 20240917225643.png",
+    "Priest.md",
     "Pasted image 20240911071448.png",
     "Sal.md",
-    "Priest.md",
     "Pasted image 20240910222807.png",
     "Anna.md",
-    "The Farm (Project).md",
     "The Town.md",
     "Ending 1 (The Farm).md",
     "True Ending (The Farm).md",
     "Pasted image 20240906003728.png",
-    "Ridgewreath Farm.md",
     "Moe.md",
     "Pasted image 20240903105011.png",
     "The Hunt (Project).md",
     "Pasted image 20240902163037.png",
     "Intuition.md",
     "The Last Line.md",
-    "The Town (Project).md",
     "Pasted image 20240902105422.png",
     "There is always another way.md",
     "Creepy Crawlies.md",
@@ -294,9 +292,6 @@
     "Animal Ken.md",
     "Pasted image 20240901004153.png",
     "Pasted image 20240901004119.png",
-    "Pasted image 20240901004113.png",
-    "Pasted image 20240901003730.png",
-    "Pasted image 20240901003703.png",
     "Welcome.md",
     "Priest(Nara).md"
   ]
