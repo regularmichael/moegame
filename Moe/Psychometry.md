@@ -6,7 +6,6 @@ Mandragora
 The ability to witness events ("read") in the history of an object, spell, or living being through direct contact (i.e. with an ungloved hand). The psychometric reader cannot influence the history - they aren't time travelers, so they can't touch anything or bring it back with them. However, they can watch events unfold that they did not see themselves and gain a plethora of knowledge about the people, places, and things related to those events.
 
 *Psychometric Readings*
-To perform a reading, spellcasters must douse their bare hands with an ointment made from various components determined by the reader. Once the ointment is applied to their hands, they then firm grasp the *"psychometric focus"* - i.e. the subject of the psychometric reading - until a spiritual connection is formed. The spell then lasts as long as the reader maintains contact with the focus or until the focus has completely absorbed the ointment into their bodies, whichever happens first.
 
 What the reader sees is determined by several things:
 1. The characteristics of the *psychometric focus*. The particular histories that can be viewed and how they can be perceived through psychometry is different for each focus, but they follow the rules outlined in the following points.
@@ -49,3 +48,16 @@ Most importantly, areas where people spend a lot of time - bedrooms, bathrooms, 
    
 ###### Living Beings
 Living beings are the richest, most complex, and most fickle of psychometric focuses. 
+
+--
+
+*The Haze*
+When using psychometry, the reader is plunged directly into [[The Haze|the Haze]], an ethereal plane that is believed (but not confirmed to be) the source of magic. This lets the reader ignore the divisions of magic and non-magic planes to interact directly with the threads of magic that are tied to the non-magical world. This is what allows them to view and reconstruct past experiences using touch alone. (It is believed that some of the most powerful readers are even able to use the haze to see what will happen in the future, but there is no evidence this is possible.)
+
+The Haze is a very dangerous place for a spellcaster for a number of reasons. One, without a grounding element (such as a focus needed for a psychometry reading), the reader runs the risk of going too far into the haze to be able to return to the non-magical plane. They will effectively vanish from the world if this happens until they are released from the haze by another spellcaster.
+
+Two, spellcasting is extremely sensitive in the haze. A level of utmost precision is needed to cast spells without adverse effects. For example, a simple spell that casts a light no larger than a candle flame in the non-magical world may instead engulf the reader in blinding light and fire in the Haze. For this reason, it's often advised
+
+Third, many entities use the Haze for their own purposes. A reader could be suspect to gaining trans-plane hitchhiker, or reoccurring visitor that has ill will for them. It's just as likely that they could be friendly and choose to help you - but you'll never know for sure until it's too late.
+
+Fourth, the exact mechanics by which the Haze presents itself to a reader is unknown. What is known is that it is influenced by object of the psychometric focus, which sort of passively reconstructs the non-magical environment to which it belongs. This is usually fine for just one reading of a physical object, but things get very tricky when two or more readings are taking place by the same reader. This is doubly true for reading living creatures, as their complex inner lives - filled with emotions, anxieties, memories, injuries, and more - will also influence the haze. For this reason, reading multiple object or living creatures is recommended only for the most accomplished psychometric readers.
