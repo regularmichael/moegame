@@ -9,6 +9,8 @@ Known powers, abilities, and skills:
 - Investigation
 	- [[Barry]] 
 - Empathy
+- Haze Token:
+	- Magic lamp
 - [[Animal ken]]
 	- Midnight ([[Midnight|Narrative]] | [[Midnight (Gameplay)|Gameplay]])
 - Spellcasting
@@ -23,7 +25,7 @@ Known powers, abilities, and skills:
 
 Maurelya ("Moe"), by day, is a line cook at a roadside diner called [[The Last Line (Narrative)|The Last Line]], working for her friend [[Sal]]. Her true job is a detective that investigates cases dealing with the strange, the magical, and the occult.
 
-Moe was once an [[Osenist]], an enclave of secret magicians devoted to the preservation of magical knowledge. They believed that magic, if not perfectly executed, was not worthy of execution at all. She worked as a [[Prospectus Archivist]], where she helped managed the books, instruments, and resources of the Osenists.
+Moe was once an [[Osenist]], an enclave of secret magicians that claimed to be devoted to the extreme preservation of magical knowledge. They believed that magic, if not perfectly executed, was not worthy of being executed at all. She worked as a [[Prospectus Archivist]], where she helped managed the books, instruments, and resources of the Osenists.
 
 Moe was the sole interloper of [[Mandragora (Narrative)|failed Mandragora ritual]]. The ritual would not be entirely successful regardless of her intervention, but she was able to subdue and destroy the imperfect creature before it could cause untold destruction. Knowing this would brand her a traitor of the Osenists, she fled. 
 

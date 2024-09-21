@@ -111,8 +111,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "e9f1e41e76f96a11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ringold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       },
       {
         "id": "6e6307d0f95930d2",
@@ -198,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Midnight.md",
+                "file": "Ringold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Midnight.md",
+                "file": "Ringold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Midnight.md"
+                "file": "Ringold.md"
               }
             }
           }
@@ -259,13 +272,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37f34a666beac37d",
+  "active": "e9f1e41e76f96a11",
   "lastOpenFiles": [
+    "Moe.md",
+    "Ringold.md",
+    "Pasted image 20240920225856.png",
+    "Midnight.md",
     "The Haze.md",
     "Ridgewreath Farm.md",
     "The Farm (Project).md",
     "The Town (Project).md",
-    "Midnight.md",
     "Pasted image 20240917225711.png",
     "Pasted image 20240917225643.png",
     "Priest.md",
@@ -277,7 +293,6 @@
     "Ending 1 (The Farm).md",
     "True Ending (The Farm).md",
     "Pasted image 20240906003728.png",
-    "Moe.md",
     "Pasted image 20240903105011.png",
     "The Hunt (Project).md",
     "Pasted image 20240902163037.png",
@@ -292,7 +307,6 @@
     "Psychometry.md",
     "Animal Ken.md",
     "Pasted image 20240901004153.png",
-    "Pasted image 20240901004119.png",
     "Welcome.md",
     "Priest(Nara).md"
   ]
