@@ -6,7 +6,6 @@
       {
         "id": "8f64ea396f8c9eab",
         "type": "tabs",
-        "dimension": 38.27077747989276,
         "children": [
           {
             "id": "37f34a666beac37d",
@@ -131,7 +130,7 @@
             }
           },
           {
-            "id": "e9f1e41e76f96a11",
+            "id": "2015fe018bc771ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -143,44 +142,9 @@
               "icon": "lucide-file",
               "title": "Mandragora (Narrative)"
             }
-          },
-          {
-            "id": "2015fe018bc771ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haze Token.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Haze Token"
-            }
           }
         ],
-        "currentTab": 10
-      },
-      {
-        "id": "6e6307d0f95930d2",
-        "type": "tabs",
-        "dimension": 61.72922252010724,
-        "children": [
-          {
-            "id": "97b9dc2b5de7a9c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Midnight.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Midnight"
-            }
-          }
-        ]
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -253,7 +217,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Midnight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +226,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Midnight"
+              "title": "Backlinks"
             }
           },
           {
@@ -272,12 +235,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Midnight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Midnight"
+              "title": "Outgoing links"
             }
           },
           {
@@ -298,11 +260,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Midnight.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Midnight"
+              "title": "Outline"
             }
           }
         ]
@@ -322,17 +282,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97b9dc2b5de7a9c0",
+  "active": "414f08687e684014",
   "lastOpenFiles": [
-    "Haze Token.md",
     "Midnight.md",
+    "Moe.md",
+    "Untitled 1.canvas",
+    "Ana.md",
+    "Mandragora (Narrative).md",
+    "Priest(Narrative).md",
+    "Haze Token.md",
+    "Pasted image 20241217170448.png",
     "Pasted image 20241217164007.png",
     "Pasted image 20241217163254.png",
     "Xiphus.md",
     "Pasted image 20241217161228.png",
-    "Mandragora (Narrative).md",
     "Ringold.md",
-    "Moe.md",
     "Pasted image 20240920225856.png",
     "The Haze.md",
     "Ridgewreath Farm.md",
@@ -349,15 +313,12 @@
     "Ending 1 (The Farm).md",
     "True Ending (The Farm).md",
     "Pasted image 20240906003728.png",
-    "Pasted image 20240903105011.png",
     "The Hunt (Project).md",
     "Intuition.md",
     "The Last Line.md",
     "There is always another way.md",
     "Creepy Crawlies.md",
     "the plan to raise.md",
-    "Ringold (Gameplay).md",
-    "Barry.md",
-    "Psychometry.md"
+    "Ringold (Gameplay).md"
   ]
 }

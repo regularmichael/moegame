@@ -6,32 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "file:Moe",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "file: psychometry",
-      "color": {
-        "a": 1,
-        "rgb": 5404128
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.57203742203742,
+  "lineSizeMultiplier": 1.2460498960499,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
+  "centerStrength": 0.27962577962578,
+  "repelStrength": 10.4158004158004,
+  "linkStrength": 0.878378378378378,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.7132754626224469,
   "close": true
 }

@@ -7,6 +7,10 @@ Understandings of the mechanisms by which Tokens work, or who can use them, vari
 
 ![[Pasted image 20241217164007.png]]
 *[[Ringold]]'s mask*
-In addition to Xiphus, two other tokens will prominently appear in the games: Ringold's Mask, which she is always wearing, and one of Priests' rings. How these work, and if they were created by these characters, has not yet been developed, although I am open to the idea of a magician being people enough to create their own token. It would help give Priest and Ringold a measure to show how powerful they really are, which will make bringing them down as Moe much more satisfying, as she won't be given a "power" token that grants her new skills - they just augment ones she already has.
+
+In addition to Xiphus, two other tokens will prominently appear in the games: Ringold's Mask, which she is always wearing, and one of [[Priest|Priest's]] rings. How these work, and if they were created by these characters, has not yet been developed, although I am open to the idea of a magician being people enough to create their own token. It would help give Priest and Ringold a measure to show how powerful they really are, which will make bringing them down as Moe much more satisfying, as she won't be given a "power" token that grants her new skills - they just augment ones she already has.
+
+![[Pasted image 20241217170448.png]]
+*Priest's Ring*
 
 Destroying a Token will only hobble a magician to the degree that they came to depend on the Token. For Ringold, that could part of her folly - an arrogance that she has could make it seem is though the mask is untouchable becasue *she* is untouchable for now. The same might be true of Priest, but I don't think that'd be satisfying for the eventual conclusion.

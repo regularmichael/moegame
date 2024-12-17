@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f18a236796046f17","x":0,"y":20,"width":400,"height":380,"type":"file","file":"Moe.md"},
+		{"id":"914bdcdd3952eef0","x":500,"y":0,"width":400,"height":420,"type":"file","file":"Psychometry.md"},
+		{"id":"23ad8c5421b4587a","x":1224,"y":-240,"width":250,"height":145,"type":"text","text":"Identify how to use psychometry as a mechanic"},
+		{"id":"1090a933129c8fb6","x":1224,"y":0,"width":250,"height":209,"type":"text","text":"How to make it different from standard investigation"},
+		{"id":"ba950545d9706e6e","x":1224,"y":283,"width":250,"height":234,"type":"text","text":"How to determine when and where the Mandragora appears"},
+		{"id":"0c77978ebf506c64","x":1224,"y":600,"width":250,"height":240,"type":"text","text":"How to determine its limitations (otehr than the mandragora)"}
+	],
+	"edges":[
+		{"id":"62576938d962e8ca","fromNode":"f18a236796046f17","fromSide":"top","toNode":"914bdcdd3952eef0","toSide":"bottom"},
+		{"id":"fb01bcd177c844e0","fromNode":"914bdcdd3952eef0","fromSide":"right","toNode":"23ad8c5421b4587a","toSide":"left"},
+		{"id":"a4a3cfcb452a68a5","fromNode":"914bdcdd3952eef0","fromSide":"right","toNode":"1090a933129c8fb6","toSide":"left"},
+		{"id":"4d8eb59f68750d42","fromNode":"914bdcdd3952eef0","fromSide":"right","toNode":"ba950545d9706e6e","toSide":"left"},
+		{"id":"9ab303718e4fca5f","fromNode":"914bdcdd3952eef0","fromSide":"right","toNode":"0c77978ebf506c64","toSide":"left"}
+	]
+}
