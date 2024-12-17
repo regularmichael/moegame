@@ -6,7 +6,7 @@
       {
         "id": "8f64ea396f8c9eab",
         "type": "tabs",
-        "dimension": 51.79640718562874,
+        "dimension": 38.27077747989276,
         "children": [
           {
             "id": "37f34a666beac37d",
@@ -17,7 +17,9 @@
                 "file": "Midnight.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Midnight"
             }
           },
           {
@@ -29,7 +31,9 @@
                 "file": "The Hunt (Project).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "The Hunt (Project)"
             }
           },
           {
@@ -41,7 +45,9 @@
                 "file": "The Town (Project).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "The Town (Project)"
             }
           },
           {
@@ -53,7 +59,9 @@
                 "file": "Ridgewreath Farm.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Ridgewreath Farm"
             }
           },
           {
@@ -65,7 +73,9 @@
                 "file": "There is always another way.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "There is always another way"
             }
           },
           {
@@ -77,7 +87,9 @@
                 "file": "Creepy Crawlies.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Creepy Crawlies"
             }
           },
           {
@@ -89,7 +101,9 @@
                 "file": "Sal.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sal"
             }
           },
           {
@@ -101,7 +115,9 @@
                 "file": "Anna.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Anna"
             }
           },
           {
@@ -109,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -118,19 +136,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ringold.md",
+                "file": "Mandragora (Narrative).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Mandragora (Narrative)"
+            }
+          },
+          {
+            "id": "2015fe018bc771ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haze Token.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Haze Token"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       },
       {
         "id": "6e6307d0f95930d2",
         "type": "tabs",
-        "dimension": 48.20359281437126,
+        "dimension": 61.72922252010724,
         "children": [
           {
             "id": "97b9dc2b5de7a9c0",
@@ -138,10 +172,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moe.md",
+                "file": "Midnight.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Midnight"
             }
           }
         ]
@@ -164,7 +200,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -179,7 +217,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -187,7 +227,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -211,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ringold.md",
+                "file": "Midnight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +261,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Midnight"
             }
           },
           {
@@ -228,10 +272,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ringold.md",
+                "file": "Midnight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Midnight"
             }
           },
           {
@@ -242,7 +288,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -251,8 +299,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ringold.md"
-              }
+                "file": "Midnight.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Midnight"
             }
           }
         ]
@@ -272,12 +322,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9f1e41e76f96a11",
+  "active": "97b9dc2b5de7a9c0",
   "lastOpenFiles": [
-    "Moe.md",
-    "Ringold.md",
-    "Pasted image 20240920225856.png",
+    "Haze Token.md",
     "Midnight.md",
+    "Pasted image 20241217164007.png",
+    "Pasted image 20241217163254.png",
+    "Xiphus.md",
+    "Pasted image 20241217161228.png",
+    "Mandragora (Narrative).md",
+    "Ringold.md",
+    "Moe.md",
+    "Pasted image 20240920225856.png",
     "The Haze.md",
     "Ridgewreath Farm.md",
     "The Farm (Project).md",
@@ -295,19 +351,13 @@
     "Pasted image 20240906003728.png",
     "Pasted image 20240903105011.png",
     "The Hunt (Project).md",
-    "Pasted image 20240902163037.png",
     "Intuition.md",
     "The Last Line.md",
-    "Pasted image 20240902105422.png",
     "There is always another way.md",
     "Creepy Crawlies.md",
     "the plan to raise.md",
     "Ringold (Gameplay).md",
     "Barry.md",
-    "Psychometry.md",
-    "Animal Ken.md",
-    "Pasted image 20240901004153.png",
-    "Welcome.md",
-    "Priest(Nara).md"
+    "Psychometry.md"
   ]
 }

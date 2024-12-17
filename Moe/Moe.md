@@ -10,7 +10,7 @@ Known powers, abilities, and skills:
 	- [[Barry]] 
 - Empathy
 - Haze Token:
-	- Magic lamp
+	- Magic lantern (Xiphus)
 - [[Animal ken]]
 	- Midnight ([[Midnight|Narrative]] | [[Midnight (Gameplay)|Gameplay]])
 - Spellcasting

@@ -19,16 +19,19 @@ Throughout the rest of the games, Midnight will be Moe's constant investigative 
 
 *Q&A*
 *Is Midnight a magical creature?*
-No. Midnight's just a dog that found herself in the same bad situation as Moe.
+No, at least not in the same way as you could describe the [[Mandragora (Narrative)|Mandragora]] or any enemies in the games as a magical create. Midnight's just a dog that found herself in the same bad situation as Moe. I am open to exploring the idea that Midnight is *capable* of magic - if magic in this world is intention based, then a dog exposed to it could reasonably be able to use magic if it had sufficient willpower and desire. This could help explain Moe and Midnight's bond and why Midnight may happen to appear at just the right times.
 
-*Is Midnight an agent of [[Priest]] or [[Ringold (Narrative)|Ringold]]?*
-No. Midnight is a free agent that found herself aligning with Moe out of mutual trust.
+*Is Midnight an agent of [[Priest]] or [[Ringold]]?*
+No. Midnight is initially a free agent that found herself aligning with Moe out of mutual trust during the Ridgewreath Farm incident. 
+
+*In game, can the player control Midnight?*
+Undecided. I'm open to exploring the idea, but my instinct is to say no - we don't want the player to manage too much. Maybe a simple "wait"/"go"/"investigate" set of commands would be fine.
 
 *In game, can Midnight be hurt?*
 I don't see why it can't happen, but we shouldn't force players to manage her health or stamina or anything. She should just be part of the scenery as well, and if she goes *down*, it's just a hiding/limping animation until Moe can help her.
 
 *How will Midnight help with investigation?*
-Her sense of smell is better than Moe's, and it's more reliable (and less dangerous) than psychometry, so Moe will probably use that as her first point of tracking. Midnight can also put people at ease if they like dogs. They'll also be able to share information with each other through their special threading bond.
+Her sense of smell is better than Moe's, and it's more reliable (and less dangerous) than psychometry, so Moe will probably use that as her first point of tracking. Midnight can also put people at ease if they like dogs. They'll also be able to share information with each other through their special thread bond.
 
 *How will Midnight help with combat?*
 Midnight can obviously be a point of distraction, but only for one enemy. She could also bite an enemy that is focused on Moe, allowing her to get some space. Finally, if they have to ambush, an enemy, Midnight can make a surprise attack where Moe may not be able to.
