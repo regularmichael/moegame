@@ -187,6 +187,18 @@
               "icon": "lucide-file",
               "title": "Gameplay Perspective"
             }
+          },
+          {
+            "id": "41fb981a4f7f61bc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
         "currentTab": 12
@@ -333,11 +345,17 @@
   },
   "active": "e7a40b6fe34f89c2",
   "lastOpenFiles": [
+    "Pasted image 20241221095219.png",
+    "Pasted image 20241221095148.png",
+    "Pasted image 20241221095027.png",
+    "Pasted image 20241221095000.png",
+    "Pasted image 20241221094804.png",
+    "Pasted image 20241221094619.png",
+    "Pasted image 20241221094112.png",
+    "Pasted image 20241221093118.png",
+    "Pasted image 20241221093047.png",
     "Pasted image 20241220213046.png",
     "Pasted image 20241220212929.png",
-    "Pasted image 20241220212838.png",
-    "Pasted image 20241220212814.png",
-    "Pasted image 20241220212758.png",
     "Gameplay Perspective.md",
     "Barn Abomination.md",
     "Mandragora (Narrative).md",
@@ -351,16 +369,10 @@
     "Ana.md",
     "Priest(Narrative).md",
     "Haze Token.md",
-    "Pasted image 20241217170448.png",
-    "Pasted image 20241217164007.png",
-    "Pasted image 20241217163254.png",
     "Xiphus.md",
-    "Pasted image 20241217161228.png",
     "Ringold.md",
-    "Pasted image 20240920225856.png",
     "The Haze.md",
     "The Town (Project).md",
-    "Pasted image 20240917225711.png",
     "Priest.md",
     "Anna.md",
     "The Town.md",
