@@ -40,21 +40,41 @@ Overall, I'm not willing to fully commit to this perspective, at least not for t
 
 # **Perspective 2: Third-person, isometric, realtime control**
 
-*In the style of:* Ruiner, HellSign,  Signalis, older RE/SH Titles
+*In the style of:* Ruiner, HellSign, Signalis, older RE/SH Titles
 ![[Pasted image 20241221093047.png]]
 ![[Pasted image 20241221093118.png]]
+This would be an interesting choice for a number of reasons. First, it allows for beautiful environmental details. It can help impart both openness and claustrophobia. Because of the emphasis on environmental detail, it can also support combat and investigation in equal measure. Balance for combat and puzzle solving feels like it'd be similar to considerations needed for the third person OTS design.
 
+I think this approach would also be pretty safe for technically limited teams. Isometric games are reliable and easy to approach, and most people find this perspective enjoyable. There are outliers, but I think it's such a classic approach that no one will be turned off by the game having this design.
+
+I think this approach would also be better for designs that include more control over Midnight. I think the idea of a dog being around to help means that players would want to have better control over how to give orders to the dog. With an isometric approach, people would be able to see enemies approaching Moe from behind, and this would make Midnight's tactical value immediately approachable.
+
+I think some of the major drawbacks here are how much it can wash out some elements of the story. Especially with investigation. While the larger environmental view can make the procedural element (not generation - the step by step decisions people make as they investigate) of discovering clues feel a bit more natural or conducive, I think this approach would limit the role of the Haze as both horror and gameplay elements. For example, seeing the Mandragora appear from around a corner would simply hit harder in an OTS 3rd person approach. It would put stress on the player to find a place to hide while trying to continue what they're doing.
+
+Overall, this perspective has many strong points and would be a great starting point for the development stage. It has some major disadvantages in terms of narrative and horror approach, but the possibility for environmental storytelling and combat are interestings.
+
+**Pros**
+- Versatile
+- Great for environments
+- Midnight control possibilities are top notch
+- Probably the most supportive perspective for standard investigations
+- Easier to implement that the OTS perspective, probably
+**Cons**
+- Safe - while it's a reliable approach, what does our game bring to the genre that would be new if we used this?
+- Limits the tension by granting more vision
+- Reduces the intrigue of the Haze and dampens impact of the Mandragora
+- Negative impact on the "scary" elements of a horror game
 # **Perspective 3: Third person, isometric, RPG control**
-*In the style of:* Parasite Eve - are there any others like this?
+*In the style of:* Parasite Eve, Disco Elysium - are there any others like this?
 ![[Pasted image 20241221094112.png]]
-
+![[Pasted image 20241226023049.png]]
 # **Perspective 4: Third person, point-and-click control**
 *In the style of:* Alone in the Dark (older), Cat Lady, Clock Tower
 ![[Pasted image 20241221094619.png]]
 ![[Pasted image 20241221094804.png]]
 
-# **Perspective 5: Third Person, "standard**
-*In the style of:* Eternal Darkness, The Suffering
+# **Perspective 5: Third Person, "standard"**
+*In the style of:* Eternal Darkness, The Suffering, older Silent Hills, Dead Rising
 ![[Pasted image 20241221095000.png]]
 ![[Pasted image 20241221095027.png]]
 
