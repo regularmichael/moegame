@@ -68,6 +68,22 @@ Overall, this perspective has many strong points and would be a great starting p
 *In the style of:* Parasite Eve, Disco Elysium - are there any others like this?
 ![[Pasted image 20241221094112.png]]
 ![[Pasted image 20241226023049.png]]
+
+This one is interesting. On the one hand, it has most of the same pros and cons of the regular isometric perspective. However, it can slow the gameplay way down for a number of new or unique advantages or disadvantages.
+
+First, this is an uncommon choice for horror games. On the one hand, Parasite Eve is well remembered, and that game really succeeded in supporting a slow-burn horror experience that  I think this story wants to go in. This also lets us develop more unique horror game experiences that would help this game stand out - i.e. it would make MP management, spellcasting, or investigation (see Disco Elysium) feel untarnished by changes in pace. 
+
+I think this is overall a strong choice, but the weird approach used by what few games can actually fall into a reference for this perspective would necessarily limit the appeal of the game to a larger audience. That's not bad in itself, but if we want to take Moe's story further than this game, we would have to consider if this system is dynamic or adjustable enough to draw in more casual audiences. Indeed, Parasite Eve and Disco Elysium are more niche classics are that are well loved, but they are **tough** sells to people who want less impenetrable experiences.
+
+**Pros**
+- Unique - allows for original systems and experiences
+- Pliable - we can probably make any range of combat/investigative/horror experiences work with enough patience
+- All benefits of the isometric approach
+
+**Cons**
+- Niche - we're narrowing the target audience by making something weight
+- Requires tight design; if we lose sight of True North, then the systems can become convoluted
+- Future-susceptible - can this design support consistent development across games? Even if we change gameplay designs later, we'd be using this to establish the identity of the characters, narrative, etc. We'd need to be careful.
 # **Perspective 4: Third person, point-and-click control**
 *In the style of:* Alone in the Dark (older), Cat Lady, Clock Tower
 ![[Pasted image 20241221094619.png]]
