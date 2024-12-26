@@ -15,18 +15,20 @@ Judging should be based on:
 ![[Pasted image 20241220213046.png]]
 This has been shown to be a consistently strong choice for "prestige" horror games, especially those with a focus on combat. Over-the-shoulder perspectives have a lot going for them - they necessarily limit how far behind the character the player can see, so you can do a lot of good spoopy stuff. For combat, having a full view like this is good for intuitive and meaty combat.
 
+This would probably be a better choice for games 2/3. I don't feel 
+
 **Pros**
-Well established
-Limited perspective allows for a more cerebral approach to gameplay
-Amenable to combat
-Friendly to cinematic/gameplay transitions
-Can show the world in great detail
+- Well established
+- Limited perspective allows for a more cerebral approach to gameplay
+- Amenable to combat
+- Friendly to cinematic/gameplay transitions
+- Can show the world in great detail
 
 **Cons**
-Kinda saturated - a lot of games using this feel similar
-More complicated development
-Requires precision in combat
-Enemy models will require a LOT of work
+* Kinda saturated - a lot of games using this feel similar
+* More complicated development
+* Requires precision in combat
+* Enemy models will require a LOT of work
 
 # **Perspective 2: Third-person, isometric, realtime control**
 
