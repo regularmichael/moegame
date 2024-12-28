@@ -89,12 +89,64 @@ I think this is overall a strong choice, but the weird approach used by what few
 ![[Pasted image 20241221094619.png]]
 ![[Pasted image 20241221094804.png]]
 
+This is a classic perspective for investigation/adventure games. It allows for rich environmental detail as well as an enhanced focus on narrative and lore. There is a lot of possibility for the player to have Moe directly interact with the world around her, which can really help nail the detective aspect of her character. This would also be an interesting choice to help impart Moe's magic capabilities, as spell components can be placed conceptually anywhere, i.e. setting runes or sigils on the ground.
+
+It's also been shown to be useful for horror games, in terms of helping to build suspense and convey messages. The puzzle/narrative focus really helps you hone in on themes. There is also a sense of helplessness that you can impart on the players. I also feel like this perspective can be useful for the Haze, and as long as it's tuned correctly, we can also use this to help the player better control Midnight as well.
+
+That said, there are some huge drawbacks. First, the element of "combat" would need to be completely reshaped for this perspective. This gameplay perspective does not really allow for active combat, so we'd have to figure out how to use puzzles to solve conflict with enemies. It can be done, but we'd have to accept that we're making something niche. Also, the "combat" will be much more fickle to design for compared to the other perspectives.
+
+The other thing about this is that as much as I like this as a possible perspective for the game, and I see the conceptual fit, I personally do not have a lot of experience with this type of game. I have played The Cat Lady and some other p+c games, but it is not in my wheelhouse. I would need to play some more to determine how well I *actually* this perspective for the game. There's also so much legacy for this type of game, and I really want to do those games right if I'm going to make one in this vein. 
+
+**Pros**
+- Rich legacy for horror titles
+- Good for strong narratives
+- BEST support for puzzle-oriented gameplay, probably
+- Magic/Midnight controls could be really interesting
+**Cons**
+- I am very unfamiliar with this style of game
+- Combat cannot happen in a traditional sense - we'd have to figure it out
+- Possible magic/Haze feature creep
+- More niche than probably anything else mentioned so far
 # **Perspective 5: Third Person, "standard"**
-*In the style of:* Eternal Darkness, The Suffering, older Silent Hills, Dead Rising
+*In the style of:* Eternal Darkness, The Suffering, older Silent Hills, Siren, Dead Rising
 ![[Pasted image 20241221095000.png]]
 ![[Pasted image 20241221095027.png]]
+This perspective is best for a more action-oriented approach to a game. This has fallen out of favor for horror games, mostly being replaced with FPS or Third-Person OTS, so this tends to be used for games that are aiming for a more retro-inspired design approach. Even then, for horror games, the focus has also been to include tank controls, which I'm only a fan of for specific parts of the game (i.e. any time Moe's senses are lost to her such as the end of the fight with the Barn Abomination).
 
-# Perspective 6: First Person
+Even though it's uncommon, I still think it's worth exploring the possibilities of this perspective. Niche but influential horror game classics like The Suffering and Eternal Darkness: Sanity's Requiem are good arguments for how this perspective can be used to make horror games appeal to a less horror-inclined audiences. The older SH games and the Siren series also used this perspective to a good degree, and it really did help make the environments/character interactions feel real. 
+
+The only modern game that I can think of that uses this perspective with horror themes would be Dead Rising, but that's honestly more of a black comedy/action series. That's one of the major points against this perspective for the games: while combat is on the table for this game, I feel like this perspective necessitates a focus on combat that I'm not sure I want to commit to.
+
+I also feel like this design doesn't really accomplish anything unique, and the things it does well are done *better* by other perspectives. For example, even if we go all-in on combat, the OTS or RPG designs can better suit this for tension or character expression, respectively. 
+
+Overall, there's a reason this perspective just isn't used for modern horror games. I would need to see a really serious case to adopt this perspective, as the games that can be used as "good" examples of horror games with this perspective may offer more inspiration for mood, narrative, or system design rather than as a gameplay perspective.
+
+**Pros**
+- Good for most things...
+**Cons**
+- ...but doesn't really have any standout features of its own
+
+# Perspective 6: Third Person, "Story"
+*In the style of:* Dark Pictures anthology, Until Dawn, The Wolf Among Us, The Walking Dead (TellTale)
+![[Pasted image 20241227234957.png]]
+![[Pasted image 20241227235200.png]]
+This has kind 
+
+# Perspective 7: First Person
 *In the style of:* Amnesia, Resi 7, PT, Alien Isolation
 ![[Pasted image 20241221095148.png]]
 ![[Pasted image 20241221095219.png]]
+I'm gonna say it outright: I don't really see this as the best choice for the game. While I do think this a great choice for a horror game, I don't think it's right for the game I'm trying to make for a number of reasons.
+
+First, I'm really attached to Moe the character and how she interacts with the world. Especially once we start introducing the Haze, I feel like seeing the world change loses impact if there's less environment to actually see, and anything that happens in the Haze may just feel more like a guide for the player rather than an element of Moe's detective skills that players are privvy to.
+
+A first person perspective also creates a mile of headaches for handling both Midnight and Magic. I foresee Magic being a more strategic element for players to engage with, and I think the limited view of the FPS perspective would make that feel unwieldy. Same with Midnight, but perhaps to a lesser to degree - except for the fact that I see most people using Midnight as a way to protect Moe from behind, and they won't know what's behind Moe with this perspective.
+
+I'm not opposed to using this perspective for some parts of the game, but this perspective feels like the hardest sell among all of the other ones to be used.
+
+**Pros**
+- Great for horror
+- Helps see details in the environments
+**Cons**
+- Just runs counterintuitive to my vision for Moe
+- Makes Magic/Midnight control hard
