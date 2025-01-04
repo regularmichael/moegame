@@ -4,192 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "8f64ea396f8c9eab",
+        "id": "3deba48893988e98",
         "type": "tabs",
         "children": [
           {
-            "id": "37f34a666beac37d",
+            "id": "cbacd9bdd0d9b205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Midnight.md",
+                "file": "Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Midnight"
-            }
-          },
-          {
-            "id": "1932d088e2310a6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Hunt (Project).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Hunt (Project)"
-            }
-          },
-          {
-            "id": "7ac1daef8e56248b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Town (Project).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Town (Project)"
-            }
-          },
-          {
-            "id": "7010f5b40d4a63cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ridgewreath Farm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ridgewreath Farm"
-            }
-          },
-          {
-            "id": "eb8f75a2485e3603",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "There is always another way.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "There is always another way"
-            }
-          },
-          {
-            "id": "4e9dbabb5c45ea83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creepy Crawlies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Creepy Crawlies"
-            }
-          },
-          {
-            "id": "946b94c782b7b172",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sal"
-            }
-          },
-          {
-            "id": "789c9c6c06f93deb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anna.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anna"
-            }
-          },
-          {
-            "id": "414f08687e684014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Barn Abomination.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Barn Abomination"
-            }
-          },
-          {
-            "id": "3fbca2cb8b527d01",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "2015fe018bc771ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mandragora (Narrative).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mandragora (Narrative)"
-            }
-          },
-          {
-            "id": "151048198aae4f4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ridgewreath Farm.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ridgewreath Farm"
-            }
-          },
-          {
-            "id": "e7a40b6fe34f89c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay Perspective.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gameplay Perspective"
+              "title": "Projects"
             }
           }
-        ],
-        "currentTab": 12
+        ]
+      },
+      {
+        "id": "59ca6d80cd3febe4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a885ddaf2df389a7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay Perspective.md",
+                "file": "Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gameplay Perspective"
+              "title": "Backlinks for Projects"
             }
           },
           {
@@ -331,44 +179,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7a40b6fe34f89c2",
+  "active": "cbacd9bdd0d9b205",
   "lastOpenFiles": [
+    "The Town (Project).md",
+    "Enemies (The Town).md",
+    "There is always another way.md",
+    "Creepy Crawlies.md",
+    "Moe.md",
+    "Characters (The Town).md",
+    "Gameplay Perspective.md",
+    "The Farm (Project).md",
+    "The Hunt (Project).md",
+    "Projects.md",
+    "Levels (The Farm).md",
+    "Puzzles (The Farm).md",
+    "Forced Warden.md",
+    "Narrative (The Farm).md",
+    "Endings (The Farm).md",
+    "True Ending (The Farm).md",
+    "Ending 1 (The Farm).md",
+    "Ridgewreath Farm.md",
+    "Characters (The Farm).md",
+    "Enemies (The Farm).md",
+    "Ana.md",
+    "Anna.md",
+    "The Town.md",
+    "Thom.md",
+    "Designer (1).png",
+    "Sal.md",
+    "Midnight.md",
     "Pasted image 20241220213046.png",
     "Pasted image 20241220212929.png",
     "Pasted image 20241220212838.png",
     "Pasted image 20241220212814.png",
     "Pasted image 20241220212758.png",
-    "Gameplay Perspective.md",
-    "Barn Abomination.md",
-    "Mandragora (Narrative).md",
-    "The Hunt (Project).md",
-    "Midnight.md",
-    "Sal.md",
-    "Ridgewreath Farm.md",
-    "The Farm (Project).md",
-    "Moe.md",
     "Untitled 1.canvas",
-    "Ana.md",
-    "Priest(Narrative).md",
-    "Haze Token.md",
     "Pasted image 20241217170448.png",
     "Pasted image 20241217164007.png",
     "Pasted image 20241217163254.png",
-    "Xiphus.md",
-    "Pasted image 20241217161228.png",
-    "Ringold.md",
-    "Pasted image 20240920225856.png",
-    "The Haze.md",
-    "The Town (Project).md",
-    "Pasted image 20240917225711.png",
-    "Priest.md",
-    "Anna.md",
-    "The Town.md",
-    "Ending 1 (The Farm).md",
-    "True Ending (The Farm).md",
-    "Intuition.md",
-    "The Last Line.md",
-    "There is always another way.md",
-    "Creepy Crawlies.md"
+    "Pasted image 20241217161228.png"
   ]
 }

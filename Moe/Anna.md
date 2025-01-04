@@ -18,7 +18,7 @@ Anna and Scoth would work together to "save" their child by luring people to the
 Convinced by Priest that she could save them all (including her son), she maintained this practice for many years until the power she had seeped out beyond the farm itself, creating invisible threads that compel people and animals toward the farm. These threads are the instigating factors of [[Cassie]] seeking out [[Moe]], which in turn led her to Ridgewreath Farm. This also attracted the attention of the [[Osenists]], who will begin investigating the Farm near the end of the game. However, Anna will kill the operating agents, ending their initial investigation and muddying their understanding of the events of the first game.
 
 *Gameplay*
-As Moe/the player progress the story, visages of Anna, Scoth, and their history on Ridgewreath Farm will be seen when Moe uses [[Psychometry|psychometry]]. At first, these visions are passive.
+As Moe/the player progress the story, visages of Anna, Scoth, and their history on Ridgewreath Farm will be seen through investigation. At first, these visions are passive.
 
 However, as Moe makes further progress on the case, Anna will become aware of her interference and begin interacting with her. She will mention that the priest warned her about Moe and will be actively aggressive toward her around the midway mark of the game.
 

@@ -1,3 +1,13 @@
+Home: [[Projects]]
+
 The Hunt refers to the proposed first game in the series, focusing on the events of the culmination of the conflict between [[Moe]], [[Priest(Narrative)|Priest]], and [[Ringold (Gameplay)|Ringold]].
 
 This is a general document for stray ideas, references, etc. that have not been formally included in the design of the game. Use this later to create a link hub, but for now it can act as a way to plug links in other docs.
+
+[[Characters (The Hunt)|Characters]]
+[[Enemies (The Hunt)|Enemies]]
+[[Levels (The Hunt)|Levels]]
+[[Puzzles (The Hunt)|Puzzles]]
+[[Narrative (The Hunt)|Narrative]]
+[[Endings (The Hunt)|Endings]]
+[[Misc. (The Hunt)|Misc.]]
