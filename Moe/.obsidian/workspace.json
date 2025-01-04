@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Projects"
             }
+          },
+          {
+            "id": "41fb981a4f7f61bc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ]
       },
@@ -181,6 +193,7 @@
   },
   "active": "cbacd9bdd0d9b205",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "The Town (Project).md",
     "Enemies (The Town).md",
     "There is always another way.md",
@@ -218,5 +231,44 @@
     "Pasted image 20241217164007.png",
     "Pasted image 20241217163254.png",
     "Pasted image 20241217161228.png"
+=======
+    "Pasted image 20241227235200.png",
+    "Pasted image 20241227234957.png",
+    "Pasted image 20241226023049.png",
+    "Pasted image 20241221095219.png",
+    "Pasted image 20241221095148.png",
+    "Pasted image 20241221095027.png",
+    "Pasted image 20241221095000.png",
+    "Pasted image 20241221094804.png",
+    "Pasted image 20241221094619.png",
+    "Pasted image 20241221094112.png",
+    "Pasted image 20241221093118.png",
+    "Gameplay Perspective.md",
+    "Barn Abomination.md",
+    "Mandragora (Narrative).md",
+    "The Hunt (Project).md",
+    "Midnight.md",
+    "Sal.md",
+    "Ridgewreath Farm.md",
+    "The Farm (Project).md",
+    "Moe.md",
+    "Untitled 1.canvas",
+    "Ana.md",
+    "Priest(Narrative).md",
+    "Haze Token.md",
+    "Xiphus.md",
+    "Ringold.md",
+    "The Haze.md",
+    "The Town (Project).md",
+    "Priest.md",
+    "Anna.md",
+    "The Town.md",
+    "Ending 1 (The Farm).md",
+    "True Ending (The Farm).md",
+    "Intuition.md",
+    "The Last Line.md",
+    "There is always another way.md",
+    "Creepy Crawlies.md"
+>>>>>>> 481b7a446ff04395c5854a96e23913dae16c9f8d
   ]
 }
