@@ -5,7 +5,7 @@ Anna is a character in the series. She is the primary antagonist of [[The Farm (
 
 Anna is a very powerful spellcaster with a natural ability to tap into her considerable well of magical energy. Throughout her whole life, she used her magical abilities without realizing it, consequently creating an intense concentration of energy at [[Ridgewreath Farm]] that is the source of the strange occurrences that happen there.
 
-At some point in her life, she and her husband [[Scoth]] had a [[Anna's Baby||child]]. The child died at a young age, which plummeted Anna into a deep depression. This caused the magical energy she had accidentally woven through the area to become unstable. This led further miseries for Anna - her plants and animals began to die, massive floods from nowhere, that sort of thing.
+At some point in her life, she and her husband [[Waylon McCall]] had a [[Anna's Baby||child]]. The child died at a young age, which plummeted Anna into a deep depression. This caused the magical energy she had accidentally woven through the area to become unstable. This led further miseries for Anna - her plants and animals began to die, massive floods from nowhere, that sort of thing.
 
 One day, [[Priest(Narrative)|a man claiming to be a traveling priest]] came to see Anna after he, in his words, "felt [her] sadness for miles." He came in to hear the couples woes. He used this to show that Anna was an extremely capable, if undisciplined, magician, and gave her some guidance and tools to use her powers.
 

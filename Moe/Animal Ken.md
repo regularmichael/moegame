@@ -8,7 +8,7 @@ A spellcaster could certainly imitate animal ken using magical manipulation effe
 
 *Known Users*
 [[Moe|Moe]]
-[[Scoth]]
+[[Waylon McCall]]
 
 *Game Elements*
 Animal ken will be reflected in characters' interactions with animals that appear in the games. The player will not need to do anything to have it; it'll just be present in Moe's journey through the story, especially through her relationship with [[Midnight]]. 

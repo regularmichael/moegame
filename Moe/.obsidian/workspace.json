@@ -1,52 +1,24 @@
 {
   "main": {
-    "id": "8bcf496ce34466f5",
+    "id": "a0892069b5c748c2",
     "type": "split",
     "children": [
       {
-        "id": "3deba48893988e98",
+        "id": "56237cd17525b7d2",
         "type": "tabs",
         "children": [
           {
-            "id": "cbacd9bdd0d9b205",
+            "id": "7aafab326dcbe214",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects.md",
+                "file": "Priest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projects"
-            }
-          },
-          {
-            "id": "41fb981a4f7f61bc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          }
-        ]
-      },
-      {
-        "id": "59ca6d80cd3febe4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a885ddaf2df389a7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Priest"
             }
           }
         ]
@@ -55,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b574a9935cd0e13e",
+    "id": "a2f2344e50d053b9",
     "type": "split",
     "children": [
       {
-        "id": "67bf62d2d65e67d5",
+        "id": "2ede186e48f16f41",
         "type": "tabs",
         "children": [
           {
-            "id": "09d6ed4495d0da02",
+            "id": "2977a0f7d25c9119",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -75,7 +47,7 @@
             }
           },
           {
-            "id": "ed603a60f8c877d4",
+            "id": "54ae2ba45d03b21a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -92,7 +64,7 @@
             }
           },
           {
-            "id": "cdb80c359b979494",
+            "id": "652843e20ebc2556",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,24 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "342e6acc57541bdf",
+    "id": "55a6f236b8fa8744",
     "type": "split",
     "children": [
       {
-        "id": "9375b1d3159708fa",
+        "id": "37b5117214abacc8",
         "type": "tabs",
         "children": [
           {
-            "id": "9b91d0cb7ea1c02a",
+            "id": "084495ecabab14ea",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects.md",
+                "file": "Priest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Projects"
+              "title": "Backlinks for Priest"
             }
           },
           {
-            "id": "890ecfb67010ecba",
+            "id": "fb55c1dd07c1ee62",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay Perspective.md",
+                "file": "Priest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gameplay Perspective"
+              "title": "Outgoing links from Priest"
             }
           },
           {
-            "id": "73cc04875a4be40e",
+            "id": "1b43929582895bce",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,15 +134,15 @@
             }
           },
           {
-            "id": "4315efc1d866d654",
+            "id": "35f1dda11f5593e7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gameplay Perspective.md"
+                "file": "Priest.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Gameplay Perspective"
+              "title": "Outline of Priest"
             }
           }
         ]
@@ -191,84 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbacd9bdd0d9b205",
+  "active": "7aafab326dcbe214",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "The Town (Project).md",
-    "Enemies (The Town).md",
-    "There is always another way.md",
-    "Creepy Crawlies.md",
-    "Moe.md",
-    "Characters (The Town).md",
-    "Gameplay Perspective.md",
-    "The Farm (Project).md",
-    "The Hunt (Project).md",
-    "Projects.md",
-    "Levels (The Farm).md",
-    "Puzzles (The Farm).md",
-    "Forced Warden.md",
-    "Narrative (The Farm).md",
-    "Endings (The Farm).md",
-    "True Ending (The Farm).md",
-    "Ending 1 (The Farm).md",
-    "Ridgewreath Farm.md",
-    "Characters (The Farm).md",
+    "Annemarie McCall.md",
+    "Waylon McCall.md",
     "Enemies (The Farm).md",
-    "Ana.md",
-    "Anna.md",
-    "The Town.md",
-    "Thom.md",
+    "Enemies (The Town).md",
+    "Forced Warden.md",
     "Designer (1).png",
-    "Sal.md",
-    "Midnight.md",
-    "Pasted image 20241220213046.png",
-    "Pasted image 20241220212929.png",
-    "Pasted image 20241220212838.png",
-    "Pasted image 20241220212814.png",
-    "Pasted image 20241220212758.png",
-    "Untitled 1.canvas",
-    "Pasted image 20241217170448.png",
-    "Pasted image 20241217164007.png",
-    "Pasted image 20241217163254.png",
-    "Pasted image 20241217161228.png"
-=======
-    "Pasted image 20241227235200.png",
-    "Pasted image 20241227234957.png",
-    "Pasted image 20241226023049.png",
-    "Pasted image 20241221095219.png",
-    "Pasted image 20241221095148.png",
-    "Pasted image 20241221095027.png",
-    "Pasted image 20241221095000.png",
-    "Pasted image 20241221094804.png",
-    "Pasted image 20241221094619.png",
-    "Pasted image 20241221094112.png",
-    "Pasted image 20241221093118.png",
-    "Gameplay Perspective.md",
-    "Barn Abomination.md",
-    "Mandragora (Narrative).md",
-    "The Hunt (Project).md",
-    "Midnight.md",
-    "Sal.md",
-    "Ridgewreath Farm.md",
-    "The Farm (Project).md",
-    "Moe.md",
-    "Untitled 1.canvas",
-    "Ana.md",
-    "Priest(Narrative).md",
-    "Haze Token.md",
-    "Xiphus.md",
-    "Ringold.md",
-    "The Haze.md",
-    "The Town (Project).md",
-    "Priest.md",
-    "Anna.md",
-    "The Town.md",
-    "Ending 1 (The Farm).md",
-    "True Ending (The Farm).md",
-    "Intuition.md",
-    "The Last Line.md",
-    "There is always another way.md",
-    "Creepy Crawlies.md"
->>>>>>> 481b7a446ff04395c5854a96e23913dae16c9f8d
+    "Victims - Ridgewreath.md"
   ]
 }

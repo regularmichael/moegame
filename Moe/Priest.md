@@ -19,7 +19,7 @@ The man known as Priest is a sorcerer who derives his power from the misery of o
 
 One thing that *is* known about him is that he feeds off the misery of the world and is actively empowered by the way despair affects magic. He often seeks out powerful but naive spellcasters and offers them false solutions to their woes. These spellcasters are usually the ones left behind by the more elite or secretive group of magicians, such as the [[Osenists]]. It should be noted that Priest won't just target spellcasters - anyone will do if it brings him amusement.
 
-This creates wells of rancid magical energy for him to draw from based on the unresolved misery of the person he appeared to help, thus allowing him to leech off their power to build his own. His pursuit of this knows no bounds - he is happy to [[Thom|render someone incapable of speaking correctly]] just as much as he is [[Anna|sending a grieving mother on a fruitless quest to revive her dead child.]]
+This creates wells of rancid magical energy for him to draw from based on the unresolved misery of the person he appeared to help, thus allowing him to leech off their power to build his own. His pursuit of this knows no bounds - he is happy to [[Thom|render someone incapable of speaking correctly]] just as much as he is [[Annemarie McCall|sending a grieving mother on a fruitless quest to revive her dead child.]]
 
 He not only subsists on this misery, but he actively enjoys perpetuating it. The joy he finds in multiplying the corruption of the world is immeasurable. He is known to sign off his astral-projection appearances with an echoing laugh, as if to trap those who witness him in a prison of his own glee.
 
@@ -69,3 +69,8 @@ In the end, it wouldn't really matter if Priest had a sad backstory. On the one 
 
 *Is Priest Midnight?*
 No.
+
+*List of Fake Names*:
+Ardor Vex
+Rowan Fetherleigh
+Ezekiel Montclaire
