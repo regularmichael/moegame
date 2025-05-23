@@ -461,12 +461,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEVELOPMENT/PROGRESS LOGS/Week of 05-19-2025.md",
+                "file": "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Parasite Eve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week of 05-19-2025"
+              "title": "Parasite Eve"
             }
           }
         ],
@@ -614,8 +614,8 @@
   },
   "active": "d605f15f12e9d705",
   "lastOpenFiles": [
-    "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/The Witcher 3 Wild Hunt.md",
     "DEVELOPMENT/PROGRESS LOGS/Week of 05-19-2025.md",
+    "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/The Witcher 3 Wild Hunt.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY",
     "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY",
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Vampyr.md",
