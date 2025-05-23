@@ -1,5 +1,5 @@
 ![[Pasted image 20240917225711.png]]
-Midnight is a dog that [[Moe]] encounters at [[Ridgewreath Farm]]. Seen in passing a few times as she hides around the farm, Midnight will incidentally save Moe after she is almost lost in [[the Haze]] following her defeat of the [[Barn Abomination]]. 
+Midnight is a dog that [[Moe]] encounters at [[Ridgewreath Farm]]. Seen in passing a few times as she hides around the farm, Midnight will incidentally save Moe after she is almost lost in [[The Haze]] following her defeat of the [[Barn Abomination]]. 
 
 After a final thrash from the beast splits open Moe's protective gloves, Midnight will come up and start licking her hand, causing her [[Psychometry|psychometric]] powers to refocus through Midnight's experiences. It is from this accidental reading that Moe will learn about Anna and her [[Soul Transfer]] ritual. From this reading and their shared trust of each other, Moe and Midnight will develop an almost telepathic connection akin to a perpetual threading, but without the risk that comes with entering the Haze.
 

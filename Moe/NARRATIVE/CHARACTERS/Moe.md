@@ -11,7 +11,7 @@ Known powers, abilities, and skills:
 - Empathy
 - Haze Token:
 	- Magic lantern (Xiphus)
-- [[Animal ken]]
+- [[Animal Ken]]
 	- Midnight ([[Midnight|Narrative]] | [[Midnight (Gameplay)|Gameplay]])
 - Spellcasting
 - Alchemy
