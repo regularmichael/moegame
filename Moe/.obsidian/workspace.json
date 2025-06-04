@@ -11,10 +11,14 @@
             "id": "a6a31a18ffc3884d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Banishers Ghosts of New Eden.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Banishers Ghosts of New Eden"
             }
           }
         ]
@@ -161,6 +165,11 @@
   },
   "active": "a6a31a18ffc3884d",
   "lastOpenFiles": [
+    "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Evil Within 2.md",
+    "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Hellblade Senua's Sacrifice.md",
+    "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Resident Evil 3 (Remake).md",
+    "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Silent Hill 3.md",
+    "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/The Sinking City.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Parasite Eve.md",
     "DEVELOPMENT/PROGRESS LOGS/Week of 05-19-2025.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/The Witcher 3 Wild Hunt.md",
@@ -170,7 +179,6 @@
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Visage.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Bloodborne.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Kentucky Route Zero.md",
-    "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Hellblade Senua's Sacrifice.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Golden Light.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Darkwood.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Call of Cthulhu (2019).md",
@@ -179,17 +187,13 @@
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Koudelka.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Alone in the Dark (Remake).md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Song of Horror.md",
-    "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/The Sinking City.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Blackout Club.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Hunt Showdown.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Hard West.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/South of Midnight.md",
-    "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Silent Hill 3.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Silent Hill 2 (Remake).md",
     "S",
     "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/HellSign.md",
-    "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Resident Evil 7.md",
-    "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/The Chant.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES",
     "NARRATIVE",
     "DEVELOPMENT",

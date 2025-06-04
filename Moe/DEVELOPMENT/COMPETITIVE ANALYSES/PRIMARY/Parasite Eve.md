@@ -30,6 +30,9 @@ Players are given a range of weapons and armor they can use. These are part of a
 
 Unfortunately, the same care isn't really given to the magical attacks, which are just unlocked, with stronger ones available as the player progresses. That makes them feel more disappointing than anything else, especially since an item in the inventory is usually stronger than an analogous spell, albeit at the cost that it can only be used once.
 
+**ENEMY DESIGN**
+
+
 **EXPLORATION**
 Exploration is usually limited to where the narrative has guided the player. Most areas have a multiple paths you can explore by finding a key or investigating your surrounding, such as pressing the action button near a crack in the wall. The investigation of the environment here is satisfying, as it allows you to learn more about the world and really supports the idea that you are playing an investigator. For example, in the the early areas, you find yourself in a theatre's prop room. Examining the props closet will cause a bird to pop out, who just sits there and says things. It's a cool touch.
 
