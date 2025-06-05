@@ -30,11 +30,23 @@ The antagonist characters range quite a bit, with the most striking being a seri
 **NARRATIVE**
 
 **CHARACTER PROGRESSION**
+Players can upgrade Sebastian's abilities and weapons using resources that are found in game. Some are found throughout the world, while others are claimed after fights with enemies. Each upgrade provides incremental increases - additional bullets in the gun, or more stamina - and can be chosen by the player according to their spending preferences. I'm not sure that I want to include something like this - I think it'd be better if Moe naturally acquired new things over the course of the game.
+
+In terms of tools, players can get new weapons and usable items as they progress throughout the game. Once the player acquires a weapon, they can immediately start upgrading it so long as they have the resources. 
 
 **ENEMY DESIGN**
+The enemies in the game are a mix of altered humans, distorted creatures, psychopathic killers, and spectral hauntings. The standard enemies are the altered humans, and they are dealt with using typical gunplay/melee/stealth kill mechanics. The game also usually provides a good opportunity to avoid combat with most of these enemies, but character progression encourages skirmishes, so we should keep that in mind.
 
+Boss encounters and creature-based puzzles are reserved for the other types of enemies. Each have their own unique aesthetics, mechanics, and narrative purposes. For example, one of the bosses is the artistic serial killer described elsewhere. His mechanics include utilizing a camera, hiding from camera flashes, and defeating him with gunplay combined with gimmicks that are narratively consistent AND unique to this character.
+
+I'll return to this section once I have more to add. For now, the important thing to know is that enemies are phenomenally varied and have cool features. 
 
 **EXPLORATION**
+Players are given a small area of free reign for each section of Union, the transport tunnels, and other levels. In addition to story or narrative content, these areas have collectible items, files, and side quests that greatly enhance the game. For example, if a player is exploring Union's housing section, there are not only a number of unique residences for them to investigate, but there are unique monsters that they can come across. A side quest featuring the character of Sykes is entirely optional, and it can only be discovered by tracking him down and keeping in contact with him. There's also quite a bit of verticality, with plenty of things to find on roofs or in basements if you can find your way to them.
+
+Sometimes, the world is laid out with a logic that is not based in reality. Hallways are extended, rooms have doors they shouldn't - very House of Leaves. 
+
+Union and STEM are one of the coolest settings in a survival horror game simply for how surreal it is while at the same time rewarding players for exploring. I'll be coming back to this later for more writeups. 
 
 **COMBAT**
 Combat is third-person, over-the-shoulder gunplay. Typical combat for this style of game - gunplay is fairly meaty, but usually standard. Nothing really to pull from this game that isn't already covered by other games, and I'm still on the fence about the inclusion of guns in the game, so there's not really anything in terms of direct combat to talk about here. 
@@ -42,6 +54,8 @@ Combat is third-person, over-the-shoulder gunplay. Typical combat for this style
 There are some melee elements, but they aren't that important either. There are axes that can do a lot of damage but break, and a permanent knife that does very little damage. There are sneak attacks that can be done that kill an unsuspecting enemy, which is an interesting idea that we can expand on for our combat system re: magic and releasing souls. There are also distraction items like bricks and bottles - a useful inclusion.
 
 Characters can craft combat things, either at a bench or in the field (which requires more than at a bench). The crafting is pretty basic, nothing to really note here other than it's a good template. Typical resource get -> make item loop. 
+
+Regarding health, players a given a small threshold that their health can heal over time to if their current health is below that threshold. For example, if the threshold is 20% of maximum health, and the player's current health is only 10% of the maximum health, then so long as they don't continue to take damage, their current health will go up until it reaches that 20% threshold. This threshold can be increased through character progression.
 
 **TAKEAWAY**
 Evil Within 2 is a really interesting horror game. The open world, surreal presentation, and emotional storytelling are the primary things to pull from this game. I'll be playing more of it to expand on this. 
