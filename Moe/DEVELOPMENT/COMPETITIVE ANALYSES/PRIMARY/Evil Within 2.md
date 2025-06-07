@@ -10,7 +10,7 @@ The primary setting is Union, a sort of American "everytown" that has been corru
 
 Additionally, several antagonists have turned Union into their playground, giving themselves immense power and unique environments in the game. As you progress through the town in a somewhat open-world fashion, the world changes in response to the state of the narrative. There are also surreal "tunnels" that can be used to help Sebastian Castellanos reach different parts of the city as they become disconnected from each other.
 
-Occasionally, players find a mirror that takes them to a safe hub where they can save their game, upgrade their equipment, and review some files. There are also some characters here that can be talked to, namely Kidman, who I talk about below. This area is lore-rich, true to Sebastian's character, and a safe breather from the dangers.
+Occasionally, players find a mirror that takes them to a safe hub where they can save their game, upgrade their abilities & equipment, and review some files. There are also some characters here that can be talked to, namely Kidman, who I talk about below. This area is lore-rich, true to Sebastian's character, and a safe breather from the dangers.
 
 There are several larger locations that act as major setpieces, such as a movie theatre or a hospital. While this is probably a better setup for a potential second game, there's still a lot that can be pulled for the first game (Ridgewreath Farm):
 1. The changing city is a good model for how the magical pockets affect the reality in the game
@@ -28,6 +28,13 @@ The second is Kidman, who is guiding Sebastian from outside of STEM. As players 
 The antagonist characters range quite a bit, with the most striking being a serial killer obsessed with the artistic display of his murders. He is creepy and his sections are some of the strongest surreal horror moments, but he is dealt with about halfway through the game. The second antagonist is a priest obsessed with fire - I feel like he doesn't make much of an impact, but he provides decent back story. The final antagonist is Sebastian's own wife, who is there to help anchor STEM. Her defeat is necessary, but I don't remember why. I just remember that it's extremely effective emotional storytelling, and that is something that I really want to incorporate into these games. 
 
 **NARRATIVE**
+The narrative unfolds using a combination of cinematics, character dialogue options, exploration, and file scrounging. The mechanism of story delivery is fairly similar to a standard Resident Evil or Silent Hill, but with less detail on the item descriptions and more coming through the dialogue vis a vis the option respond to characters. 
+
+One of the coolest ways narratives are delivered is through "resonance" - finding the active memory of character interactions that happened at some point before the game started. Attuning Sebastian's radio to the resonance allows snippets of important conversations to play out, with shadowy figures acting out the the characters in physical space. Sometimes, the resonance gives Sebastian a view of the events from the perspective of the resonance target. Usually, this is his daughter Lily.  
+
+This not only provides context for narrative events, but is also a pathfinding tool to find side quests or resources. When you're within range of the resonance, an indicator will flash on screen, directing you to the presence of a resonance you can track. Bringing up the transmitter radio will allow you to rotate Sebastian to face the direction of the resonance. This gives players a sense of direction.
+
+When you're within range of a resonance you can view, the resonance indicator becomes completely consumed by a gauge representing proximity to the target. As you get closer to the resonance, the gauge decreases until you're within range to view the resonance. Additionally, when you aren't using the transmitter, it's viewable on Sebastian's character model, hanging on the back of the waistband of his pants. The number on the transmitter gives an indication of how far he is from the resonance without needing to consult the transmitter. 
 
 **CHARACTER PROGRESSION**
 Players can upgrade Sebastian's abilities and weapons using resources that are found in game. Some are found throughout the world, while others are claimed after fights with enemies. Each upgrade provides incremental increases - additional bullets in the gun, or more stamina - and can be chosen by the player according to their spending preferences. I'm not sure that I want to include something like this - I think it'd be better if Moe naturally acquired new things over the course of the game.
@@ -59,3 +66,5 @@ Regarding health, players a given a small threshold that their health can heal o
 
 **TAKEAWAY**
 Evil Within 2 is a really interesting horror game. The open world, surreal presentation, and emotional storytelling are the primary things to pull from this game. I'll be playing more of it to expand on this. 
+
+On further playthroughs, I think the resonance system is a good skeleton for Psychometry. It allows a way to cryptically communicate direction, gives players a way to explore past events in a tactile way, and encourages exploration. The important thing would be to add risk to using this in our game, and how using this stuff can be a reward without necessarily punishing players for choosing not to expose themselves to danger. 

@@ -2,7 +2,7 @@ Home: [[The Farm (Project)]]
 
 [[Enter The Farm]]
 [[Leaving the House]]
-[[Forced Warden]]
+[[Forced Warden Puzzle]]
 [[Garage Lock]]
 [[Ladder Carry]]
 [[Glove Repair]]

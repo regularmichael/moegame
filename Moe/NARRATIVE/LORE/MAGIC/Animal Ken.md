@@ -15,11 +15,11 @@ Animal ken will be reflected in characters' interactions with animals that appea
 
 Known animal ken in the narrative so far include:
 - [[Moe]] forming a fast friendship with [[Midnight]] at [[The Farm (Project)]]. Without Midnight's assistance, Moe could very well have died at Ridgewreath.
-- Moe's completion of the [[Creepy Crawlies]] side quests in each game.
+- Moe's completion of the [[Living Things]] side quests in each game.
 - Various instances where Moe is able to make friends with an animal (a client's cat, a random frog hops up to her, etc.)
 
 *See Also*
 [[Midnight (Gameplay)]]
-[[Creepy Crawlies]]
+[[Living Things]]
 [[The Farm (Project)]]
 [[Barn Abomination]]
