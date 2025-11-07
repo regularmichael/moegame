@@ -232,6 +232,20 @@
             }
           },
           {
+            "id": "6dd53fc7b2f8d7c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEVELOPMENT/MECHANICS/SPELLCASTING/Glyphs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Glyphs"
+            }
+          },
+          {
             "id": "6b0a9a43d14d5abc",
             "type": "leaf",
             "state": {
@@ -260,7 +274,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -403,10 +417,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4cd315b609cbadf",
+  "active": "6dd53fc7b2f8d7c0",
   "lastOpenFiles": [
-    "NARRATIVE/LORE/MAGIC/Psychometry.md",
+    "DEVELOPMENT/MECHANICS/SPELLCASTING/Mana.md",
+    "DEVELOPMENT/MECHANICS/SPELLCASTING/Glyphs.md",
     "DEVELOPMENT/MECHANICS/The Haze.md",
+    "DEVELOPMENT/MECHANICS/COMBAT/Combat Loop.md",
+    "Untitled",
+    "NARRATIVE/LORE/MAGIC/Psychometry.md",
     "DEVELOPMENT/MECHANICS/Gameplay Perspective.md",
     "NARRATIVE/CHARACTERS/Cillian Reed.md",
     "NARRATIVE/CHARACTERS/Characters (The Farm).md",
@@ -416,7 +434,6 @@
     "NARRATIVE/CHARACTERS/Annemarie McCall.md",
     "NARRATIVE/CHARACTERS/Waylon McCall.md",
     "DEVELOPMENT/GAMES/GAME 1 - RIDGEWREATH/True Ending (The Farm).md",
-    "DEVELOPMENT/MECHANICS/COMBAT/Combat Loop.md",
     "ASSET DUMP/Pasted image 20250608123619.png",
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Minecraft Hex Casting Mod.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Siren.md",
@@ -424,7 +441,6 @@
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Hungry Ghosts.md",
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Haunting Ground.md",
     "NARRATIVE/SETTINGS/The Last Line.md",
-    "Untitled.md",
     "DEVELOPMENT/MECHANICS/SIDE QUESTS/Living Things.md",
     "DEVELOPMENT/MECHANICS/PUZZLES/Osenist Prayer Puzzle (Optional).md",
     "DEVELOPMENT/MECHANICS/PUZZLES/Candles Puzzle.md",
@@ -432,7 +448,6 @@
     "DEVELOPMENT/GAMES/GAME 1 - RIDGEWREATH/Ending 1 (The Farm).md",
     "DEVELOPMENT/GAMES/GAME 1 - RIDGEWREATH/Endings (The Farm).md",
     "DEVELOPMENT/GAMES/GAME 1 - RIDGEWREATH/Enemies (The Farm).md",
-    "DEVELOPMENT/GAMES/GAME 1 - RIDGEWREATH/Narrative (The Farm).md",
     "DEVELOPMENT/MECHANICS/SIDE QUESTS",
     "DEVELOPMENT/MECHANICS/PUZZLES",
     "DEVELOPMENT/GAMES/GAME 3 - DREAMSPACE",
@@ -442,7 +457,6 @@
     "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY",
     "DEVELOPMENT/ENEMIES/BOSS ENEMIES",
     "DEVELOPMENT/PROGRESS LOGS",
-    "DEVELOPMENT/MECHANICS",
     "ASSET DUMP/Untitled 2.canvas",
     "ASSET DUMP/Untitled 1.canvas",
     "ASSET DUMP/Untitled.canvas",
