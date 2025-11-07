@@ -5,43 +5,6 @@ A short list of possible victims whose history Moe can revisit during the game u
 (!~) - Part of a story quest, but can be routed due to player choice
 No symbol at the end of name - optional
 
-**Lettie Carroway**
+Sara (!)
 ---
-
-Delphinia DeMontagne
----
-
-Arline Vandermeer
----
-
-Silas Abernathy
----
-
-Junia Raine
----
-
-Temperance Rue
----
-
-Orson Crow
----
-
-Tolliver Sykes
----
-
-Shiloh Hatch
----
-
-Greer Black
----
-
-Mercy Creed
----
-
-Henrietta Gaskett
----
-
-Winona Pick
----
-
-
+One of a handful of survivors that were apparently working with [[Cillian Reed]] to try to escape. She is among the first monsters that are found in the game.

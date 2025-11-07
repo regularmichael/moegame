@@ -1,5 +1,5 @@
 ![[Pasted image 20240901003730.png]]
-The Last Line is the name of the restaurant owned by [[Sal]]. [[Moe]] works here, and this is also where she tends to meet her clients. The food served here, as well as the general aesthetic of the place, is typical American style. Moe is a line cook who typically works out of sight from the general seating area. 
+The Last Line is the name of the restaurant owned by [[Sal]]. [[Moe]] works here, and this is also where she tends to meet her clients. The food served here, as well as the general aesthetic of the place, is typical nostalgic American style. Moe is a line cook who typically works out of sight from the general seating area. 
 
 *Gameplay*
 The first game ([[The Farm (Project)|The Farm]]) will begin with [[Cassie]] coming to meet Moe here. Sal will recognize that Moe needs to leave and he will give her a care package.
