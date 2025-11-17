@@ -8,7 +8,7 @@ Sal will play small supporting roles in the first two games ([[The Farm (Project
 
 In the third game, Sal will appear frequently, as The Last Line will be a primary location in the game. He will be around to provide Moe more comfort and care packages. At some point, [[Priest(Narrative)|Priest]] will attack The Last Line and, despite Moe's extensive preparation, kill Sal in front of her. Sal's last lines to Moe will be, "This isn't your fault. I love you." 
 
-While cradling Sal's body, Moe will discover that he was able to secure a piece of Priest's clothing, which will finally allow her to  [[Psychometry|thread]] Priest's location. In the approach to the final conflict, Priest will try to use Sal's image to distract and disorient Moe, which will be an obstacle players need to overcome.
+While cradling Sal's body, Moe will discover that he was able to secure a piece of Priest's clothing, which will finally allow her to  [[NARRATIVE/LORE/MAGIC/Psychometry|thread]] Priest's location. In the approach to the final conflict, Priest will try to use Sal's image to distract and disorient Moe, which will be an obstacle players need to overcome.
 
 In the epilogue, after Moe defeats Priest, she will take ownership of the restaurant and rename it "Sal's". Following in his footsteps, she will begin making care packages for the occult detective(s) she is currently mentoring.
 

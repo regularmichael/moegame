@@ -125,118 +125,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEVELOPMENT/MECHANICS/SIDE QUESTS/Living Things.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Living Things"
-            }
-          },
-          {
-            "id": "07058ec44aff334e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NARRATIVE/SETTINGS/The Last Line.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Last Line"
-            }
-          },
-          {
-            "id": "fd1e6953ef0ee732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Hungry Ghosts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hungry Ghosts"
-            }
-          },
-          {
-            "id": "3539a5c90c518371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Hungry Ghosts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hungry Ghosts"
-            }
-          },
-          {
-            "id": "afb6dc3b4c59696d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Fatal Frame.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fatal Frame"
-            }
-          },
-          {
-            "id": "0e9ab29a12264f04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Siren.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Siren"
-            }
-          },
-          {
-            "id": "c6d3472d8903cf40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Minecraft Hex Casting Mod.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Minecraft Hex Casting Mod"
-            }
-          },
-          {
-            "id": "b4cd315b609cbadf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEVELOPMENT/MECHANICS/COMBAT/Combat Loop.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Combat Loop"
-            }
-          },
-          {
-            "id": "6dd53fc7b2f8d7c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "DEVELOPMENT/MECHANICS/SPELLCASTING/Glyphs.md",
                 "mode": "source",
                 "source": false
@@ -246,35 +134,49 @@
             }
           },
           {
-            "id": "6b0a9a43d14d5abc",
+            "id": "9e58a5c9f2269aeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NARRATIVE/CHARACTERS/Annemarie McCall.md",
+                "file": "Spellcasting Scenarios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Annemarie McCall"
+              "title": "Spellcasting Scenarios"
             }
           },
           {
-            "id": "18d90524fde9e366",
+            "id": "e682e7556b6a6017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NARRATIVE/CHARACTERS/Cillian Reed.md",
+                "file": "DEVELOPMENT/MECHANICS/Psychometry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cillian Reed"
+              "title": "Psychometry"
+            }
+          },
+          {
+            "id": "8ca446b8de4ef3df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEVELOPMENT/1- !Design Philosophy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1- !Design Philosophy"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -417,46 +319,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6dd53fc7b2f8d7c0",
+  "active": "8ca446b8de4ef3df",
   "lastOpenFiles": [
+    "DEVELOPMENT/MECHANICS/PUZZLES/Puzzle Integration.md",
+    "DEVELOPMENT/1- !Design Philosophy.md",
+    "DEVELOPMENT/MECHANICS/INVESTIGATION/Untitled.md",
+    "DEVELOPMENT/MECHANICS/INVESTIGATION/Investigation Loop.md",
+    "DEVELOPMENT/MECHANICS/Gameplay Perspective.md",
+    "DEVELOPMENT/MECHANICS/COMBAT/Combat Loop.md",
+    "DEVELOPMENT/MECHANICS/INVESTIGATION",
+    "DEVELOPMENT/MECHANICS/Struggle.md",
+    "DEVELOPMENT/MECHANICS/Intuition (Beta).md",
+    "DEVELOPMENT/MECHANICS/Psychometry.md",
+    "DEVELOPMENT/MECHANICS/SPELLCASTING/RITUALS/Rituals.md",
+    "DEVELOPMENT/MECHANICS/SPELLCASTING/RITUALS/Chalice.md",
+    "DEVELOPMENT/MECHANICS/SPELLCASTING/RITUALS",
     "DEVELOPMENT/MECHANICS/SPELLCASTING/Mana.md",
     "DEVELOPMENT/MECHANICS/SPELLCASTING/Glyphs.md",
-    "DEVELOPMENT/MECHANICS/The Haze.md",
-    "DEVELOPMENT/MECHANICS/COMBAT/Combat Loop.md",
-    "Untitled",
-    "NARRATIVE/LORE/MAGIC/Psychometry.md",
-    "DEVELOPMENT/MECHANICS/Gameplay Perspective.md",
-    "NARRATIVE/CHARACTERS/Cillian Reed.md",
-    "NARRATIVE/CHARACTERS/Characters (The Farm).md",
-    "NARRATIVE/CHARACTERS/Characters (The Town).md",
-    "NARRATIVE/CHARACTERS/Victims - Ridgewreath.md",
-    "Pasted image 20251012184005.png",
-    "NARRATIVE/CHARACTERS/Annemarie McCall.md",
-    "NARRATIVE/CHARACTERS/Waylon McCall.md",
-    "DEVELOPMENT/GAMES/GAME 1 - RIDGEWREATH/True Ending (The Farm).md",
-    "ASSET DUMP/Pasted image 20250608123619.png",
-    "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Minecraft Hex Casting Mod.md",
-    "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Siren.md",
-    "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY/Fatal Frame.md",
-    "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Hungry Ghosts.md",
-    "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Haunting Ground.md",
-    "NARRATIVE/SETTINGS/The Last Line.md",
-    "DEVELOPMENT/MECHANICS/SIDE QUESTS/Living Things.md",
+    "DEVELOPMENT/MECHANICS/SPELLCASTING/Weapons.md",
+    "DEVELOPMENT/MECHANICS/PUZZLES/Emilio's House Puzzle.md",
+    "DEVELOPMENT/MECHANICS/PUZZLES/Forced Warden Puzzle.md",
+    "DEVELOPMENT/MECHANICS/PUZZLES/Glove Repair Puzzle.md",
     "DEVELOPMENT/MECHANICS/PUZZLES/Osenist Prayer Puzzle (Optional).md",
-    "DEVELOPMENT/MECHANICS/PUZZLES/Candles Puzzle.md",
-    "DEVELOPMENT/GAMES/Projects.md",
-    "DEVELOPMENT/GAMES/GAME 1 - RIDGEWREATH/Ending 1 (The Farm).md",
-    "DEVELOPMENT/GAMES/GAME 1 - RIDGEWREATH/Endings (The Farm).md",
-    "DEVELOPMENT/GAMES/GAME 1 - RIDGEWREATH/Enemies (The Farm).md",
+    "DEVELOPMENT/MECHANICS/PUZZLES/Rootwork Puzzle.md",
+    "DEVELOPMENT/MECHANICS/PUZZLES/The Creek Puzzle.md",
+    "Spellcasting Scenarios.md",
+    "DEVELOPMENT/MECHANICS/SIDE QUESTS/Living Things.md",
+    "Pasted image 20251012184005.png",
+    "NARRATIVE/CHARACTERS/Cillian Reed.md",
+    "DEVELOPMENT/MECHANICS/SPELLCASTING",
+    "DEVELOPMENT/MECHANICS/COMBAT",
+    "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Song of Horror.md",
+    "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Minecraft Hex Casting Mod.md",
+    "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY/Hungry Ghosts.md",
+    "ASSET DUMP/Pasted image 20250608123619.png",
     "DEVELOPMENT/MECHANICS/SIDE QUESTS",
     "DEVELOPMENT/MECHANICS/PUZZLES",
     "DEVELOPMENT/GAMES/GAME 3 - DREAMSPACE",
     "DEVELOPMENT/GAMES/GAME 2 - MUDTOWN",
     "DEVELOPMENT/GAMES/GAME 1 - RIDGEWREATH",
     "DEVELOPMENT/COMPETITIVE ANALYSES/SECONDARY",
-    "DEVELOPMENT/COMPETITIVE ANALYSES/PRIMARY",
-    "DEVELOPMENT/ENEMIES/BOSS ENEMIES",
-    "DEVELOPMENT/PROGRESS LOGS",
     "ASSET DUMP/Untitled 2.canvas",
     "ASSET DUMP/Untitled 1.canvas",
     "ASSET DUMP/Untitled.canvas",

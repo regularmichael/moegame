@@ -2,7 +2,7 @@ Psychometric occult detective
 ![[Pasted image 20240901001056.png]]![[Pasted image 20240902105422.png]]
 ![[Pasted image 20240903105011.png]]
 Known powers, abilities, and skills:
-- Psychometry ([[Psychometry|Narrative]] | [[Psychometry|Gameplay]])
+- Psychometry ([[NARRATIVE/LORE/MAGIC/Psychometry|Narrative]] | [[NARRATIVE/LORE/MAGIC/Psychometry|Gameplay]])
 	- Mandragora ([[Mandragora (Narrative)|Narrative]] | [[Mandragora (Gameplay)|Gameplay]])
 	- Priest ([[Priest(Narrative)|Narrative]] | [[Priest(Gameplay)|Gameplay]])
 - [[Intuition]]
